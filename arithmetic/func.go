@@ -1,5 +1,5 @@
 // Checks if a number is prime or not
-package custom
+package arithmetic
 
 func IsPrime(num int) bool {
 	for i := 2; i < int(num/2); i++ {
